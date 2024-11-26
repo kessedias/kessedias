@@ -5,8 +5,8 @@
 
 ## Sobre
 
-> 👨‍💻 Desenvolvedor Fullstack PHP 
->> 🖥️ Desenvolvimento em plataformas LMS 
+> 👨‍💻 Desenvolvedor Fullstack PHP  
+>> 🖥️ Desenvolvimento em plataformas LMS  
 <ul><strong>Experiência com:</strong>
 <li>➡️Criação de plugins de funcionalidades gerais</li>
 <li>➡️Desenvolvimento de integrações</li>
@@ -21,6 +21,12 @@
 <li>📙 Conhecimento em LGPD</li>
 <li>📙 Utilização da ferramenta JIRA</li>
 <li>📙 Inglês intermediário</li>
+<li>📙 Conhecimento com NestJS</li>
+<li>📙 Experiência com Docker</li>
+<li>📙 Familiaridade com Vitest e Jest para testes unitários</li>
+<li>📙 Conhecimento com Prisma ORM</li>
+<li>📙 Experiência em Arquitetura Onion</li>
+<li>📙 Familiaridade com PostgreSQL</li>
 </ul>
 
 #
@@ -39,9 +45,13 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
-  </p>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 #
+
 ## LMS conhecido
 <img src="https://img.shields.io/badge/MOODLE-LMS-orange">
 
@@ -54,13 +64,14 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 #
 
 ## Frameworks de testes unitários conhecido
 <p float="left">
+  <img src="https://img.shields.io/badge/Vitest-6A6ED5?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Unit-purple"/>
 </p>
 
@@ -71,4 +82,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
-
