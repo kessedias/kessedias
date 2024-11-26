@@ -7,27 +7,33 @@
 
 > 👨‍💻 Desenvolvedor Fullstack PHP  
 >> 🖥️ Desenvolvimento em plataformas LMS  
-<ul><strong>Experiência com:</strong>
-<li>➡️Criação de plugins de funcionalidades gerais</li>
-<li>➡️Desenvolvimento de integrações</li>
-<li>➡️Criação de relatórios</li>
-<li>➡️Levantamento de pesquisa para novas implementações/processos</li>
-</ul>
-  
-<ul><strong>Competências</strong>
-<li>📙 Conhecimento básico em infraestrutura AWS</li>
-<li>📙 Conhecimento intermediário em Ubuntu Server</li>
-<li>📙 Conhecimento com a metodologia Ágil: SCRUM</li>
-<li>📙 Conhecimento em LGPD</li>
-<li>📙 Utilização da ferramenta JIRA</li>
-<li>📙 Inglês intermediário</li>
-<li>📙 Conhecimento com NestJS</li>
-<li>📙 Experiência com Docker</li>
-<li>📙 Familiaridade com Vitest e Jest para testes unitários</li>
-<li>📙 Conhecimento com Prisma ORM</li>
-<li>📙 Experiência em Arquitetura Onion</li>
-<li>📙 Familiaridade com PostgreSQL</li>
-</ul>
+## Experiência com:
+- ➡️ Criação de plugins de funcionalidades gerais
+- ➡️ Desenvolvimento de integrações
+- ➡️ Criação de relatórios
+- ➡️ Levantamento de pesquisa para novas implementações/processos
+- ➡️ Integração com IA generativa:
+  - Chatbot
+  - Langchain
+  - Refinamento de prompt
+  - Geração de imagens
+
+## Competências:
+- 📙 Conhecimento básico em infraestrutura AWS
+- 📙 Conhecimento intermediário em Ubuntu Server
+- 📙 Conhecimento com a metodologia Ágil: SCRUM
+- 📙 Conhecimento em LGPD
+- 📙 Utilização da ferramenta JIRA
+- 📙 Inglês intermediário
+- 📙 Conhecimento intermediário com Node.js (back-end)
+- 📙 Conhecimento intermediário com React e Typescript (front-end)
+- 📙 Conhecimento com NestJS
+- 📙 Experiência com Docker
+- 📙 Familiaridade com Vitest e Jest para testes unitários
+- 📙 Conhecimento com Prisma ORM
+- 📙 Experiência em Arquitetura Onion
+- 📙 Familiaridade com PostgreSQL
+
 
 #
 
