@@ -13,10 +13,10 @@
 - ➡️ Criação de relatórios
 - ➡️ Levantamento de pesquisa para novas implementações/processos
 - ➡️ Integração com IA generativa:
-  - Chatbot
-  - Langchain
-  - Refinamento de prompt
-  - Geração de imagens
+  - 🤖 Chatbot
+  - 🌐 Langchain
+  - ✍️ Refinamento de prompt
+  - 🖼️ Geração de imagens
 
 ## Competências:
 - 📙 Conhecimento básico em infraestrutura AWS
