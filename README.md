@@ -10,7 +10,7 @@
 
 ## Sobre
 
-> 👨‍💻 Desenvolvedor Fullstack PHP  
+> 👨‍💻 Desenvolvedor Fullstack PHP | Node.js
 >> 🖥️ Desenvolvimento em plataformas LMS  
 ## Experiência com:
 - ➡️ Criação de plugins de funcionalidades gerais
